@@ -1,11 +1,29 @@
-# College Management System
+# 🎓 College Management System 🏫
 
-Website:
-http://cmscollegemanagementsystem.pythonanywhere.com/
+A full-featured web application built using **Django** + **Bootstrap** to simplify and automate day-to-day college operations. This system manages student records, attendance, subjects, faculty, and admin tasks — all from a single platform! 🌐
 
-# Project Summary
-This is a Simple College Management System Developed for Educational Purpose using Python (Django).
-# Features of this Website
+---
+
+## 🚀 Features
+
+✨ Simple and clean UI with Bootstrap  
+🔐 Role-based user authentication (Admin, Student, Faculty)  
+📅 Attendance management  
+📚 Subject and course tracking  
+📝 Dynamic student/faculty CRUD operations  
+📊 Admin dashboard for managing data  
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python 3  
+- 🌐 Django (Backend Framework)  
+- 💾 SQLite (Default DB)  
+- 🎨 HTML5, CSS3, Bootstrap (Frontend)  
+- 🧪 Django Admin Panel
+
+---
 # A. Admin Users Can
 1. See Overall Summary Charts of Students Performance, Staffs Performance, Add/Remove Courses, Add/Remove Subjects, Check/Reply Leave application of staffs/students, Check/reply on feedback bt staffs/students etc.
 
